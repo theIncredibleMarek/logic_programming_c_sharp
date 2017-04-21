@@ -1,0 +1,5 @@
+logic
+logic.o
+*.suo
+LogicProgrammingCSharp/bin
+LogicProgrammingCSharp/obj
